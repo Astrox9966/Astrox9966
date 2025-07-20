@@ -4,6 +4,6 @@
 - 😄 Pronouns: he/him
 
 Astralixi OS devlopment schedule:
-- First Version late August 2025
-- 2nd Version mid September 2025
-- 3rd Version early December 2025
+- First Version early/mid August 2025 (Version Alpha)
+- 2nd Version mid September 2025 (Version Beta)
+- 3rd Version late November 2025 (Version DD/MM/YY)
